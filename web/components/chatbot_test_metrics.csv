@@ -1,0 +1,21 @@
+Timestamp,Question,Question Type,Response,Intent,Appointment Scheduled,Response Time (ms),Success
+http_req_waiting,0
+http_req_failed,0
+http_reqs,0
+http_req_blocked,0
+vus,0
+http_req_duration,0
+http_req_duration{expected_response:true},0
+http_req_tls_handshaking,0
+http_req_receiving,0
+http_req_sending,0
+checks,0
+data_sent,0
+appointment_rate,0
+iteration_duration,0
+response_times,0
+vus_max,0
+iterations,0
+http_req_connecting,0
+data_received,0
+success_rate,0
